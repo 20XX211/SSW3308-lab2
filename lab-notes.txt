@@ -1,0 +1,18 @@
+
+Lab 1: Hypertext Markup Language
+
+1. Browser Used
+Google Chrome
+
+2. Error Corrected
+I corrected an HTML error found by the W3C HTML Validator.
+The error was: [write the actual error you corrected].
+
+3. Difference Between an HTML Tag and an HTML Element
+An HTML tag is markup written inside angle brackets, such as <p>.
+An HTML element includes the opening tag, content, and closing tag.
+Example: <p>Welcome to our campus.</p >
+
+4. HTML Validator
+Website: https://validator.w3.org/
+Result: [write your actual validation result].
